@@ -9,13 +9,10 @@ def initialize(name)
   end	  
 
 def self.all
-  @@all
-end
+
 
 def self.clear_all
   @@clear_all
 end
-
-def initialize(name)
-  @name
-  
+end 
+end
