@@ -13,5 +13,8 @@ def self.all
 end
 
 def self.clear_all
-  
+  @@clear_all
+end
+
+
   
