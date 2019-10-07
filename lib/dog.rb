@@ -15,7 +15,6 @@ def self.clear_all
   @@clear_all
 end
 
-def initialize(name)
-  @name = name
+def 
 end 
 end
